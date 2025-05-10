@@ -41,6 +41,12 @@ dependencies:
   toastification:
   flutter_svg:
   flutter_screenutil:
+  lottie: ^3.1.2
+  auto_size_text:
+  cached_network_image:
+
+
+
 
 
 
