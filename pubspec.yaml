@@ -45,6 +45,13 @@ dependencies:
   auto_size_text:
   cached_network_image:
   dartz: ^0.10.1
+  readmore:
+  flutter_slidable:
+  smooth_page_indicator:
+  carousel_slider_plus:
+
+
+
 
 
 
